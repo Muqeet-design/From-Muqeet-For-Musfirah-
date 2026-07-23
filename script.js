@@ -108,7 +108,7 @@ showPage("storyPage");
 
 startStory();
 
-},1800);
+},5000);
 
 };
 
