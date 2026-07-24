@@ -185,11 +185,6 @@ Envelope
 
 background:linear-gradient(135deg,#ffdce8,#fff5f8);
 
-display:flex;
-
-justify-content:center;
-
-align-items:center;
 
 }
 
@@ -268,8 +263,6 @@ transform:translateY(-120px);
 #envelope.open .flap{
 transform:rotateX(180deg);
 }
-
-.tap{
 
 .tap{
 
