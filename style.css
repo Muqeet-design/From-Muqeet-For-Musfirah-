@@ -265,15 +265,22 @@ transform:rotateX(180deg);
 
 .tap{
 
+display:block;
+
+width:100%;
+
 margin-top:30px;
+
+text-align:center;
 
 font-size:18px;
 
-color:#444;
-
 font-weight:600;
 
+color:#444;
+
 }
+
 
 /* =========================
 Story Page
