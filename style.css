@@ -185,6 +185,12 @@ Envelope
 
 background:linear-gradient(135deg,#ffdce8,#fff5f8);
 
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
 }
 
 #envelope{
@@ -265,11 +271,9 @@ transform:rotateX(180deg);
 
 .tap{
 
-display:block;
+.tap{
 
-width:100%;
-
-margin-top:30px;
+margin-top:25px;
 
 text-align:center;
 
@@ -280,7 +284,6 @@ font-weight:600;
 color:#444;
 
 }
-
 
 /* =========================
 Story Page
